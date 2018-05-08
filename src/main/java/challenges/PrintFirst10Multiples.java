@@ -16,7 +16,6 @@
 	
 	Sample Input
 	2
-	
 	Sample Output
 	2 x 1 = 2
 	2 x 2 = 4
@@ -30,7 +29,7 @@
 	2 x 10 = 20
  */
 
-package loops;
+package challenges;
 
 import java.util.Scanner;
 import java.util.function.IntConsumer;
